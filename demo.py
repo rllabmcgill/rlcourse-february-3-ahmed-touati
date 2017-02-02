@@ -123,6 +123,6 @@ if __name__ =='__main__':
     plt.xlabel('number of states')
     plt.ylabel('run time')
     plt.legend()
-    plt.savefig('complexity_1.png')
+    plt.savefig('complexity.png')
 
 
